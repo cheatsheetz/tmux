@@ -183,3 +183,6 @@ TMUX cheat sheets
 ### tpm
 
 > [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+
+#### From  
+> <https://github.com/outcoldman/outcoldman.com/blob/master/content/cheatsheets/tmux/index.markdown>
